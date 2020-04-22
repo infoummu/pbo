@@ -1,0 +1,51 @@
+1. Jelaskan konsep dari method constructor dan destructor beserta contohnya?
+
+a	Method constructor
+	Method constructor merupakan sebuah method yang akan otomatis dipanggil ketika objek di instantiasi. Constructor umumnya digunakan untuk melakukan iniasialisasi terhadap suatu variabel atau method. Bentuk umum method constructor adalah sebagai berikut
+
+Class <nama_kelas>
+	def_init_(self, <argument-argumen>)
+		<statement>
+		<statement>
+Contoh program
+Class konstruktor :
+def_init_(self) :
+print ‘kalimat ini akan langsung di cetak\n ketika objek dibuat
+
+# program utama
+objekKonst = Konstruktor ()
+
+b.Method destructor
+	Method destructor dalam python merupakan method yang menyediakan proses khusus sebelum objek di hancurkan/dealokasi. Method constructor disebut _del_().
+Method ini tidak akan dilaksanakan sampai semua referensi ke semua objek telah di hapus
+
+Contoh 
+>>> class C :
+. . . 	def_init_(self):
+. . . 		print “inisialisasi”
+. . . 	def_def_(self):
+. . . 		print “Objek Telah Dihapus”
+. . .
+>>> c1 = C()
+Inisialisasi
+>>> c2 = c1
+>>> c3 = c1
+>>> id(c1), id(c2), id(c3)
+     (1178956, 11789856, 11789856)
+>>>del c1
+>>>del c2
+>>>del c3
+Objek Telah Dihapus
+
+
+2. Buat sebuah studi kasus memggunakan fungsi method misalkan seperti latihan 6.7 (studi kasus harus berbeda-beda antar mahasiswa)
+
+
+def luas_persegi (sisi):
+    luas = sisi * sisi
+    return luas
+
+def volume_persegi(sisi) :
+    volume = luas_persegi (sisi) * sisi
+
+
