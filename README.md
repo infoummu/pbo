@@ -1,2 +1,2 @@
 # PBO
-Projek Untuk Kumpul Tugas PBO, kelas Info3, Info4 dan Info5
+Page Informasi untuk Mahasiswa Informatika UMMU kelas Info4 dan Info5
