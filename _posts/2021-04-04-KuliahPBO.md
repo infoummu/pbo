@@ -28,6 +28,7 @@ Silahkan Baca Referensi di link berikut: [`referensi`](Reff){:target="_blank"}, 
 
 5. Usahakan Sudah Terkumpul Sebelum Pertemuan Akan datang (paling lambat 11/04/2021).
 
+6. Jika Kurang Paham atau ada yang kurang jelas silahkan bertanya langsung lewat WA person atau di Grup...
 
 ***
 ***
