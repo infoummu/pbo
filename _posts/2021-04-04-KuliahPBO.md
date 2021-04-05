@@ -8,7 +8,7 @@ published: true
 
 |Status   | : Online                      |
 |Waktu    | : 05/04/2021                 |
-|Tema     | : Praktikum 2 PBO - Variable/Variabel |
+|Tema     | : Praktikum 4 PBO - Variable/Variabel |
 
 
 ### Tugas Pengganti Pertemuan ke-4
@@ -113,7 +113,7 @@ Silahkan Baca Referensi di link berikut: [`referensi`](Reff){:target="_blank"}, 
 
 1. Infomasi Seputar MK PBO akan disampaikan melalui media :
     1. Melalui WA (WhatsApp) di grup PBO Info 4 dan Info 5, atau melalui KETING (Ketua Tingkat), dan
-    2. Page [infoummu.github.io](https://infoummu.github.io/PBO){:target="_blank"}
+    2. Page [infoummu.github.io](https://infoummu.github.io/PBO/){:target="_blank"}
 
 1. Untuk semua Mahasiswa diharapkan untuk pantau dan ikuti terus informasi dari Kedua media tersebut,
 2. Modul akan disharing saat post per pertemuan ([Modul Sementara Baru Tersedia Untuk MK PBO](downloads){:target="_blank"})
