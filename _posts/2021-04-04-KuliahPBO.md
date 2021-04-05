@@ -1,5 +1,5 @@
 ---
-title: Kuliah PBO
+title: Kuliah PBO Info 4 dan 5
 published: true
 ---
 
