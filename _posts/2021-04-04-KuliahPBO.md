@@ -3,6 +3,41 @@ title: Kuliah PBO Info 4 dan 5
 published: true
 ---
 
+## PERTEMUAN TUJUH 07 :
+
+|Status   | : Online                      |
+|Waktu    | : 31/05/2021                 |
+|Tema     | : Pertemuan 7 PBO - LIST, TUPLE DAN SET |
+
+
+Kerjakan praktikum bersama teman2 lebih bagus sehingga bisa bertanya atau berdiskusi materi atau bagian yang tidak dipahami ke teman belajarnya !.
+
+
+### Tugas Pengganti PERTEMUAN KE-7
+
+1. Silahkan Baca Materi di `MODUL` dan KERJAKAN Praktikum IV dengan TEMA `LIST, TUPLE DAN SET` yang ada di `MODUL`
+
+2. Tulis kembali code yang terdapat di modul dan simpan sesuai dengan nama yang ada di modul, (contoh : `Latihan_4.1.list1.py` dan seterusnya) - (usahakan nama file jangan mengandung SPASI).
+
+3. Setelah code ditulis, silahkan jalankan untuk di test, lakukan untuk semua dari code `Latihan_4.1.list1.py` sampai code `Latihan_4.4.set.py`.
+
+4. Setelah Melakukan Test dan berhasil, silahkan kirim ke folder `Box_19000` (menyesuaikan NPM) pada akun `dropbox` anda masing-masing !.
+
+
+5. Usahakan Sudah Terkumpul Sebelum Pertemuan Akan datang (paling lambat 05/06/2021).
+
+6. Jika Kurang Paham atau ada yang kurang jelas silahkan bertanya langsung lewat WA langsung atau di Grup PBO WA...
+
+
+> ....:)
+
+
+
+
+***
+***
+
+
 
 ## PERTEMUAN EMPAT 04 :
 
@@ -13,7 +48,7 @@ published: true
 
 ### Tugas Pengganti Pertemuan ke-4
 
-Silahkan Baca Referensi di link berikut: [`referensi`](Reff){:target="_blank"}, cari tema tentang Variable atau Variabel dan buat sebuah contoh file script python tentang Variable/Variabel, Setelah selesai coba jalankan dan pastikan scriptnya tidak error, setelah itu silahkan kirim/kumpul file script yang sudah anda buat ke dropbox-nya masing2...!
+Silahkan Baca Referensi di link berikut: [referensi](Reff){:target="_blank"}, cari tema tentang Variable atau Variabel dan buat sebuah contoh file script python tentang Variable/Variabel, Setelah selesai coba jalankan dan pastikan scriptnya tidak error, setelah itu silahkan kirim/kumpul file script yang sudah anda buat ke dropbox-nya masing2...!
 
 
 ### Yang Perlu DiPERHATIKAN !
