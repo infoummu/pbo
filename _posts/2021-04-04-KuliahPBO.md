@@ -3,6 +3,86 @@ title: Kuliah PBO Info 4 dan 5
 published: true
 ---
 
+## PERTEMUAN TUJUH 09 - UTS :
+
+|Status   | : Online                      |
+|Waktu    | : 07/06/2021                 |
+|Tema     | : Pertemuan 09 PBO - UTS |
+
+
+
+### UTS OnLine
+
+1. Lengkapi Script dibawah sehingga jika dijalankan dapat menghasilkan output sebagaimana terlihat pada gambar pada point no 2
+
+    ```python
+
+    #----------------------------
+    # Informatika UMMU Ternate
+    # MK Praktikum PBO - UTS
+    # ---------------------------
+    # Nama : <ISI NAMA ANDA>
+    # NPM  : <ISI NPM ANDA>
+    # INFO : <ISI INFO>
+    #----------------------------
+
+    # Data List
+    data1 = ["Ikhwan Elyas","19000","Info 0","Informatika","UMMU Ternate"]
+
+
+    # Cetak List "data1"  per Element
+
+
+    # Hapus "Informatika" dari "data_1"
+
+
+    # Tambah Data "PBO" ke List
+
+
+    # Data SET
+    NPM_4={"19003","19004","19005"}
+    NPM_5={"19002","19003","19004"}
+
+
+    # Cetak Elemen NPM_4 yang beda dari NPM_5
+
+
+    # Cetak Elemen NPM_5 yang beda dari NPM_4
+
+
+    # Cetak Elemen NPM_4 Gabung NPM_5
+
+
+    ```
+
+2. Lengkapi Script diatas sehingga menghasilkan OUTPOT seperti gambar dibawah : 
+
+
+    ![](assets/img/PBO_UTS.png)
+
+
+3. Simpan file script nya dengan nama  `Praktikum_PBO_UTS_NPM.py` (ubah NPM menjadi NPM anda, contoh : `Praktikum_PBO_UTS_19001.py`).
+
+4. Jika Telah Selesai, Silahkan kirim script hasil UTS nya ke folder `Box_19000` (menyesuaikan NPM) pada akun `dropbox` anda masing-masing !.
+
+
+5. Hasil UTS Sudah Harus Terkumpul paling lambat 08/06/2021.
+
+6. Jika Kurang Paham atau ada yang kurang jelas silahkan bertanya langsung lewat WA langsung atau di Grup PBO WA...
+
+
+
+..... 
+
+
+
+
+
+***
+***
+
+
+
 ## PERTEMUAN TUJUH 07 :
 
 |Status   | : Online                      |
