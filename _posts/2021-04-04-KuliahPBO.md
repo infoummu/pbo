@@ -3,7 +3,7 @@ title: Kuliah PBO Info 4 dan 5
 published: true
 ---
 
-## PERTEMUAN TUJUH 09 - UTS :
+## PERTEMUAN SEMBILAN 09 - UTS :
 
 |Status   | : Online                      |
 |Waktu    | : 07/06/2021                 |
