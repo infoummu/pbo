@@ -3,6 +3,138 @@ title: Kuliah PBO Info 4 dan 5
 published: true
 ---
 
+## PRAKTIKUM PBO  - UAS - INFO 4 & 5 :
+
+|Status   | : Online                      |
+|Waktu    | : 29/06/2021                 |
+|Tema     | : Praktikum PBO - UAS |
+
+
+
+### UAS OnLine
+
+1. Baca dan perhatikan instruksi dengan baik
+2. Kerjakan Soal UAS dibawah dan Segera Kumpul ke `dropbox`
+
+### Kirim File Script UAS-nya ke Dropbox
+1. Simpan file script nya dengan nama  `praktikum_PBO_UAS_NPM.py` (ubah NPM menjadi NPM anda, contoh : `praktikum_PBO_UAS_19001.py`).
+
+2. Silahkan kirim script hasil UAS nya ke folder `Box_19000` (menyesuaikan NPM) pada akun `dropbox` anda masing-masing !.
+
+
+3. Hasil UAS DIUSAHAKAN Terkumpul Sebelum 02/07/2021.
+
+4. Jika Kurang Paham atau ada yang kurang jelas silahkan bertanya langsung lewat WA langsung atau di Grup PBO WA...
+
+
+
+### Soal UAS 1 :  
+1. Buatlah code yang dapat memeriksa `npm` yang diinput dari keyboard kemudian tampilkan informasi berupa `npm` dan `nama mahasiswa` seperti terlihat pada gambar dibawah, 
+2. Untuk Menyelesaikan soal, buatlah sebuah `dictionary` yang berisi data anda dan teman-teman anda yang terdiri dari `npm` dan `nama mahasiswa` (sudah ada tinggal melengkapi yang ada di script), 
+
+### Soal UAS 2 : 
+1. Buatlah code yang dapat memeriksa nilai (Nilai Ujian contohnya), nilai dimasukkan lewat keyboard, kemudian nilai yang diinput diperiksa, 
+dan ketentuannya : 
+
+    Jika nilai >= 80 maka tampilkan infomasi "Nilai A"
+
+    Jika nilai >= 70 dan <= 79 maka tampilkan infomasi "Nilai B"
+
+    Jika nilai >= 50 dan <= 69 maka tampilkan infomasi "Nilai C"
+
+    Jika nilai >= 40 dan <= 49 maka tampilkan infomasi "Nilai D"
+
+    Jika nilai <= 39 maka tampilkan informasi "Nilai E"
+
+
+2. Untuk menyelesaikan SOAL No.1 dan No.2 silahkan COPY `script` dibawah dan silahkan lengkapi sampai mendapatkan hasil yang sesuai dengan soalnya dan akan terlihat seperti pada gambar dibawah. 
+
+    ```python
+
+    #----------------------------
+    # Informatika UMMU Ternate
+    # MK Praktikum PBO - UAS - INFO 4 & 5
+    # ---------------------------
+    # Nama : <ISI NAMA ANDA>
+    # NPM  : <ISI NPM ANDA>
+    # INFO : <ISI INFO>
+    #----------------------------
+
+
+    # CODE untuk SOAL NOMOR 1
+    #-------------------------
+    # Buat Contoh Data Dictionary dan,
+    # Isi dengan NPM dan NAMA-Nama Teman anda sekelas !
+        # Data Ini hanya CONTOH
+        # silahkan ganti dengan data real anda dan teman2 anda
+    mhs_pbo_45 = {
+
+        '19001':'Nama Anda', 
+        '19003':'Nama Teman Anda',
+        '19004':'Nama Teman Anda 1', 
+        '19007':'Nama Teman Anda 2' 
+
+    }  # dan Seterusnya, ( INGAT !, Ikuti Formatnya)
+
+    # Input NPM dari Keyboard
+    npm   = input(" Input NPM \t: ")
+    print( '-'*35)
+
+    ## Periksa "npm", Jika NPM Terdapat dalam DICTIONARY Maka,
+    ## Tampilkan Informasi NPM dan Nama Mahasiswa
+    ## Jika Tidak, Maka Tampilkan Informasi Tidak Ditemukan
+
+    ## TULIS CODE NO-1  ANDA DI-BAWAH 
+
+
+
+    
+    print( '='*35) ## hanya garis pembatas 
+    ## batas akhir code untuk soal nomor 1
+
+
+    # CODE untuk SOAL NOMOR 2
+    #-------------------------
+    ## Input Nilai dari Keyboard
+    nilai = int(input(" Input Nilai \t: "))
+    print( '-'*35)
+
+    ## Periksa "nilai" yang diinput dari keyboard dan, 
+    # Jika nilai >= 80 maka tampilkan infomasi "Nilai A"
+    # Jika nilai >= 70 dan <= 79 maka tampilkan infomasi "Nilai B"
+    # Jika nilai >= 50 dan <= 69 maka tampilkan infomasi "Nilai C"
+    # Jika nilai >= 40 dan <= 49 maka tampilkan infomasi "Nilai D"
+    # Jika nilai <= 39 maka tampilkan informasi "Nilai E"
+    
+    ## TULIS CODE NO-2  ANDA DI-BAWAH
+
+
+    print( '-'*35) ## hanya garis pembatas 
+    ## batas akhir code untuk soal nomor 2
+    ```
+
+
+### Hasil Gambarnya : 
+
+Hasil dari Soal No.1 dan No.2 akan menampilkan informasi OUTPOT seperti gambar dibawah : 
+
+
+![](assets/img/PBO_UAS.png)
+
+
+..... 
+
+
+
+
+
+***
+***
+
+
+
+
+
 ## PERTEMUAN SEMBILAN 09 - UTS :
 
 |Status   | : Online                      |
