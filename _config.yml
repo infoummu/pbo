@@ -1,45 +1,52 @@
-title: Info UMMU Ternate
-description: "Prodi Informatika UMMU Ternate (temp)"
-url: "https://infoummu.github.io"
-author:
-  name: "Informatika UMMU"
-  email: "infoummu@outlook.com"
-  url: "https://infoummu.github.io/hacker-blog"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-# Build settings
-# baseurl: /info
-baseurl: /pbo/
-# Change this to your relative path (ex: /blog/), or leave just a /
-#markdown: kramdown
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 
-paginate_path: /page:num/
-#port: 9005
-# Default values
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+# title: Grafika Komputer
+title: "PBO"
+owner: "PBO"
+description: "Web Pages MK PBO Informatik UMMU Ternate"
+# email: elyas.uii14@gmail.com
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Website atau pages untuk Mata Kuliah Grafika Komputer Prodi Informatika UMMU Ternate
+#   Sebagai sarana untuk komunikasi dan wadah untuk tugas-tugas Mahasiswa Informatika 
+#   Khususnya Mata Kuliah Grafika Komputer
+baseurl: "/pbo" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: Infoummu
+# github_username:  infoummu
+gitlab_username:  infoumu
 
 # Plugins
 #gems:
+# Build settings
+# theme: minima
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+  # - jekyll-seo-tag
+
+# Build settings
+# theme: hacker-blog
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-feed
 
-# Custom variables
-version: "1.0.0"
 
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: false
-# Custom variables
-owner : "Informatika_UMMU"
-year : "2018"
+
+

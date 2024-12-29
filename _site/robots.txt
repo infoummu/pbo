@@ -1,1 +1,0 @@
-Sitemap: http://192.168.10.4:4000/pbo/sitemap.xml

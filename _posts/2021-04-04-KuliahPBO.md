@@ -1,7 +1,18 @@
 ---
+layout: post
+title:  "Kuliah PBO Info 4 dan 5 - 2021"
+date:   2021-04-17 12:12:11 -0500
+categories: mk pbo
+author: Ikhwan Elyas
+description: Mata kuliah **Pemrograman Berorientasi Objek (PBO)** bertujuan untuk memberikan pemahaman mendalam mengenai prinsip-prinsip, teknik, dan alat yang digunakan untuk melindungi sistem komputer dan jaringan dari berbagai ancaman keamanan.
+---
+
+
+
+<!-- ---
 title: Kuliah PBO Info 4 dan 5 - 2021
 published: true
----
+--- -->
 
 ## PRAKTIKUM PBO  - UAS - INFO 4 & 5 :
 
