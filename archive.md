@@ -2,8 +2,8 @@
 layout: page
 title: "Archive"
 description: This page displays all posts.
-permalink: /archive/
 ---
+
 
 <!-- 
     ---
