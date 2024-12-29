@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4001/PBO/sitemap.xml
+Sitemap: http://192.168.10.4:4000/pbo/sitemap.xml

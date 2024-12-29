@@ -2,12 +2,16 @@
 layout: page
 title: About
 ---
-### About this web :
+## About this web :
+
+Halaman Web ini untuk anak-anak Mahasiswa Informatika UMMU Ternate sekedar sharing Pengetahuan tentang Mata Kuliah Pemrograman Berorientasi Objek (PBO).
+
+
 ***
 
-# Informatika UMMU
-# Universitas Muhammadiyah Maluku Utara
-# Ternate.
+### Informatika UMMU
+### Universitas Muhammadiyah Maluku Utara
+### Ternate.
 
 
 >

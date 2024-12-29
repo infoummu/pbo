@@ -2,15 +2,37 @@
 layout: default
 ---
 
+<!-- Add at 29/12/2024 -->
+<div class="home">
 
+	<h1 class="page-heading">Posts</h1>
+  
+	<ul class="post-list">
+	  {% for post in site.posts %}
+		<hr style="width: 200px; margin-left: 0; border: none; border-top: 0.6px dotted; border-spacing: 15px;">
+		<li>
+		  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-meta by-line"> {{ post.date | date: "%-d %B %Y" }}  | <i>{{ post.author }}</i> </time> 
+		  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>        
+		  <p class="post-meta by-line">{{ post.description }}</p>
+		</li>
+	 {% endfor %}
+	</ul>
+  
+	<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+  
+  </div>
+  
+
+
+<!-- nonaktif 29/12/2024
 <div >
-<a href="KuliahPBO">
-<h2> Mata Kuliah PBO Info 4 dan Info5 </h2>
+<a href="KuliahPBO-2024">
+<h2> Mata Kuliah PBO Info 3 dan Info 4 </h2>
 Untuk Informasi Seputar <code class="highlighter-rouge"><b>Mata Kuliah PBO</b></code> silahkan masuk ke sini, Informasi tentang Pertemuan, Materi yang akan dibahas dan Tugas serta arahan-arahan 
 akan disediakan di tautan ini. </a>
 
 </div>
-
+ -->
 
 
 

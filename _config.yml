@@ -8,7 +8,7 @@ author:
 
 # Build settings
 # baseurl: /info
-baseurl: /PBO/
+baseurl: /pbo/
 # Change this to your relative path (ex: /blog/), or leave just a /
 #markdown: kramdown
 source: .
