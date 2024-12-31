@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Kuliah Perdana PBO Info 3 & 4 - 2024"
-date:   2021-09-12 13:12:11 -0500
+date:   2024-08-17 12:12:11 -0500
 categories: mk pbo
 author: Ikhwan Elyas
-description: Mata kuliah **Pemrograman Berorientasi Objek (PBO)**, Ini Kuliah Perdara membahas tentang Pengantar PBO dan penjelasan seputar Kontrak Kuliah beserta semua variabel penilaian yang digunakan untuk mata kuliah ini.
+description: Mata kuliah <b>Pemrograman Berorientasi Objek (PBO)</b>, Ini Kuliah Perdara membahas tentang Pengantar PBO dan penjelasan seputar Kontrak Kuliah beserta semua variabel penilaian yang digunakan untuk mata kuliah ini.
 ---
 
 
@@ -41,7 +41,7 @@ published: true
 
 1. Infomasi Seputar MK PBO akan disampaikan melalui media :
     1. Melalui WA (WhatsApp) di grup PBO Info 4 dan Info 5, atau melalui KETING (Ketua Tingkat), dan
-    2. Page [infoummu.github.io](https://infoummu.github.io/pbo/){:target="_blank"}
+    2. Page [infoummu.github.io/pbo](https://infoummu.github.io/pbo/){:target="_blank"}
 
 1. Untuk semua Mahasiswa diharapkan untuk pantau dan ikuti terus informasi dari Kedua media tersebut,
 2. Modul akan disharing saat post per pertemuan ([Modul Sementara Baru Tersedia Untuk MK PBO](downloads){:target="_blank"})
