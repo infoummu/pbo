@@ -135,5 +135,6 @@ dmypy.json
 **_site/
 _site/
 _site/**
+_site/*.*
 ._site/**
 

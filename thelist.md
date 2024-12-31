@@ -28,8 +28,6 @@ description: The List of my Students
 |12.    |Novianti Sangaji      |  [https://github.com/Lastryyy/](https://github.com/Lastryyy/){:target="_blank"}                       |
 
 
-
-
 * Daftar Nama-nama yang ada Akun Github Info 4: 
 
 | No.   | Nama Mahasiswa              | Akun Github                                                                                        |
