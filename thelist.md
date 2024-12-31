@@ -8,9 +8,9 @@ description: The List of my Students
 ## Daftar Nama 
 
 
-### Daftar Nama2 yang Sudah Punya Akun di github: 
+### Daftar Nama2 Info 3 dan Info 4: 
 
-* Daftar Nama-nama yang ada Akun Github Info 3: 
+* Daftar Nama-nama yang Sudah Buat Tugas Sebelumnya dan sudah ada Akun Github Info 3: 
 
 |No.    | Nama Mahasiswa    | Akun Github   |
 |:------|:------------------|:--------------|
@@ -28,7 +28,7 @@ description: The List of my Students
 |12.    |Novianti Sangaji      |  [https://github.com/Lastryyy/](https://github.com/Lastryyy/){:target="_blank"}                       |
 
 
-* Daftar Nama-nama yang ada Akun Github Info 4: 
+* Daftar Nama-nama yang Sudah Buat Tugas Sebelumnya dan sudah ada Akun Github Info 4: 
 
 | No.   | Nama Mahasiswa              | Akun Github                                                                                        |
 |:------|:----------------------------|:---------------------------------------------------------------------------------------------------|
