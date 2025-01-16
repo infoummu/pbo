@@ -15,6 +15,9 @@ description: Pertemuan ini membahas tentang detail Proyek UAS Mata kuliah <b>Pem
 ## Tujuan
 Tugas ini bertujuan untuk melatih mahasiswa dalam menggunakan GitHub sebagai platform kolaborasi, sekaligus mengasah kemampuan pemrograman berbasis objek dengan Python melalui kontribusi nyata dalam sebuah proyek bersama.
 
+## Proyek UAS
+**UAS Pemrograman Berorientasi Objek (PBO)** dikerjakan dalam bentuk membuat proyek kalaborasi bersama dengan membuat program kecil sebagai UAS anda, gunakan materi yang telah dipelajari seperti class dan fungsi untuk menyusun program anda secara kreatif sehingga program yang akan dibuat antara satu mahasiswa dengan yang lainnya tidak ada yang sama.
+
 ## Langkah-Langkah
 
 1. **Login ke GitHub**  
