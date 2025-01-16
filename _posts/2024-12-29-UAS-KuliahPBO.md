@@ -27,10 +27,11 @@ Tugas ini bertujuan untuk melatih mahasiswa dalam menggunakan GitHub sebagai pla
    Klik tombol **Fork** untuk membuat salinan repositori tersebut ke akun GitHub Anda.
 
 3. **Sync Fork**
+
    Lakukan `sync fork` untuk update agar repositorinya update atau sama dengan repositori yang ada di infoummu.github/pbo-2024, ini dilakukan sebelum melakukan `pull request` 
 
 
-3. Bekerja Tugas secara **ONLINE** atau **OFFLINE**: 
+3. Bekerja UAS secara **ONLINE**: 
 
    1. **Kerjakan UAS VERSI ONLINE**:
 
@@ -52,21 +53,11 @@ Tugas ini bertujuan untuk melatih mahasiswa dalam menggunakan GitHub sebagai pla
 
 
 
-
-
 5. **Lakukan Pengujian**  
    Jalankan file `uas_main_pbo.py` untuk menguji apakah kode yang ditambahkan berfungsi dengan baik tanpa error.  
    Gunakan perintah berikut di terminal:
    ```bash
    python uas_main_pbo.py
-   ```
-
-6. **Commit dan Push Perubahan**  
-   Jika pengujian berhasil, commit dan push perubahan ke repositori hasil fork Anda:
-   ```bash
-   git add .
-   git commit -m "Menambahkan kontribusi pada modul_satu_pbo.py"
-   git push origin main
    ```
 
 7. **Pull Request**  
@@ -84,8 +75,6 @@ Semua mahasiswa harus sudah berkontribusi dan melakukan pull request paling lamb
 ## Catatan Penting
 - Pastikan kode yang ditambahkan sudah diuji dan tidak mengandung error.
 - Berkontribusilah secara orisinal sesuai kemampuan dan gagasan Anda.
-
-..... 
 
 
 ***
