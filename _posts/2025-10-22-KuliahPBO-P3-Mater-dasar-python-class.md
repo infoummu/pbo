@@ -7,7 +7,7 @@ author: Ikhwan Elyas
 description: Pada pertemuan ke-2 mata kuliah Pemrograman Berorientasi Objek (PBO) ini, mahasiswa akan mempelajari konsep dasar tentang variabel dan berbagai tipe data di Python, termasuk list, string, tuple, dan dictionary. Selain itu akan dibahas juga penggunaan operator, ekspresi, dan aturan operasi dalam Python.
 ---
 
-## Pertemuan 2 – Variabel dan Jenis Tipe Data
+## Pertemuan 3 – Variabel dan Jenis Tipe Data
 
 ### Panduan Menyimpan dan Menjalankan Program Python
 
