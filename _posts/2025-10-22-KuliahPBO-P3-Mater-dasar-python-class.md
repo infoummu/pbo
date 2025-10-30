@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  Kuliah PBO Info 3 & 4 - Basic of Python Class P3
-date:   2025-10-22 01:12:11 -0500
-categories: mk pbo
 author: Ikhwan Elyas
 description: Pada pertemuan ke-2 mata kuliah Pemrograman Berorientasi Objek (PBO) ini, mahasiswa akan mempelajari konsep dasar tentang variabel dan berbagai tipe data di Python, termasuk list, string, tuple, dan dictionary. Selain itu akan dibahas juga penggunaan operator, ekspresi, dan aturan operasi dalam Python.
 ---

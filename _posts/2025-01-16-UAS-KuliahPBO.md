@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "UAS - Kuliah PBO Info 3 & 4 - 2024"
-date:   2025-01-16 01:12:11 -0500
-categories: mk pbo
 author: Ikhwan Elyas
 description: Pertemuan ini membahas tentang detail Proyek UAS Mata kuliah <b>Pemrograman Berorientasi Objek (PBO)</b> berupa proyek kalaborasi dituangkan ke code untuk disharing ke sesama.
 ---

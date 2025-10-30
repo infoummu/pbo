@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Kuliah Perdana PBO Info 3 & 4 - 2024"
-date:   2024-08-17 12:12:11 -0500
-categories: mk pbo
 author: Ikhwan Elyas
 description: Mata kuliah <b>Pemrograman Berorientasi Objek (PBO)</b>, Ini Kuliah Perdara membahas tentang Pengantar PBO dan penjelasan seputar Kontrak Kuliah beserta semua variabel penilaian yang digunakan untuk mata kuliah ini.
 ---

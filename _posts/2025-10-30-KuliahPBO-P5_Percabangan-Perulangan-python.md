@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Kuliah PBO Info 3 & 4 - Percabangan dan Perulangan dalam Python
-date:   2025-10-30 01:12:11 -0500
 author: Ikhwan Elyas
 description: Pertemuan ini membahas konsep dasar percabangan (struktur kondisi) dan perulangan (looping) dalam bahasa Python. Mahasiswa akan belajar bagaimana komputer membuat keputusan berdasarkan kondisi tertentu serta mengulangi proses secara efisien menggunakan berbagai bentuk loop. Contoh kode diberikan agar mahasiswa dapat memahami logika program dan menerapkannya dalam kasus nyata seperti perhitungan, validasi data, dan pengulangan proses otomatis.
 ---
@@ -43,7 +42,7 @@ description: Pertemuan ini membahas konsep dasar percabangan (struktur kondisi) 
     # dan seterusnya ...
     ```
 5. Lakukan Bertahap satu per satu, setiap Contoh lakukan percobaan dijalankan agar anda paham apa yang dilakukan oleh code tersebut.
-6. Setelah Selesai sampai `Contoh 14`, dan `berhasil` jalan tanpa `error`, silahkan `Absen` dan `Upload` file praktikum anda ke link berikut: **[Absen dan Upload](https://pbo.tifor.site/){:target="_blank"}**
+6. Setelah Selesai sampai `Contoh 14`, dan `berhasil` jalan tanpa `error`, silahkan `Absen` dan `Upload` file praktikum anda ke link berikut: **[[Absen dan Upload](https://pbo.tifor.site/){:target="_blank"}]**
 
 
 ### 1 Percabangan (Conditional Statements)

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Halaman Contoh"
-date:   2021-03-24 15:32:14 -0300
 categories: jekyll update
 description: Halaman Selamat Datang 
 ---
