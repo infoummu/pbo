@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Kuliah PBO Info 3 & 4 - Percabangan dan Perulangan dalam Python
+title:  Kuliah PBO Info 3 & 4 - Percabangan dan Perulangan dalam Python P5
 author: Ikhwan Elyas
 description: Pertemuan ini membahas konsep dasar percabangan (struktur kondisi) dan perulangan (looping) dalam bahasa Python. Mahasiswa akan belajar bagaimana komputer membuat keputusan berdasarkan kondisi tertentu serta mengulangi proses secara efisien menggunakan berbagai bentuk loop. Contoh kode diberikan agar mahasiswa dapat memahami logika program dan menerapkannya dalam kasus nyata seperti perhitungan, validasi data, dan pengulangan proses otomatis.
 ---
