@@ -141,3 +141,4 @@ _site/*.*
 .jekyll-cache*
 .jekyll-cache/
 .jekyll-cache
+_posts/tmp/
