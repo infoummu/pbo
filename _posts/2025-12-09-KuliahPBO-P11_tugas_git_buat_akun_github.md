@@ -30,6 +30,7 @@ Menguasai Git dan GitHub mengajarkan **disiplin kerja tim**, **manajemen risiko 
 4.  Lengkapi semua langkah verifikasi hingga akun Anda berhasil dibuat dan Anda berada di *dashboard* utama.
 5.  **Ambil *screenshot*** untuk setiap langkah penting (pendaftaran, verifikasi *email*, dan *dashboard* akhir).
 6.  Pada akun yang sudah jadi, jelaskan secara singkat di bagian mana Anda akan melihat *repository* yang nantinya akan digunakan untuk tugas PBO.
+7. Setelah selesai buat akun, copy **`LINK`** profil github-nya ke halaman Absen dan upload file, **contoh** link profil github saya : **`https://github.com/infoummu`**
 
 ### B. Dokumentasi Laporan (Format PDF)
 
