@@ -2,7 +2,7 @@
 layout: post
 title:  Kuliah PBO Info 3 & 4 - Lanjutan Class Inheritance (Pewarisan) P10
 author: Ikhwan Elyas
-description: Fungsi Python 🐍 mengelompokkan kode untuk reusable dan organisasi yang lebih baik. Penting bagi mahasiswa untuk mempelajarinya agar dapat membuat program yang efisien dan terstruktur..
+description: Inheritance atau "pewarisan" adalah mekanisme di mana sebuah class dapat mewarisi atribut dan metode dari class lain. Konsep ini digunakan untuk menghindari duplikasi kode dan mempermudah pengembangan program.
 ---
 
 
