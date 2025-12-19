@@ -26,13 +26,13 @@ Mahasiswa Semester 3 yang mengambil MK PBO diminta membuat sebuah Final Projek (
     - Lakukan "Pull Reques" ke projek utama 
     - Maintener melakukan "Merger" 
     * Kata Kunci : fork, pull request,
-    * Cari di Internet dengna kata kunci:  
+    * Cari di Internet dengan kata kunci:  
         - untuk ketua kelompok (MAINTAINER): "Bagaimana membuat repository/project baru di github online"
         - untuk anggota/kontributor: "How to fork and make a contribution to github project online"
         - untuk anggota/kontributor: "Bagaimana melakukan fork dan berkontribusi ke projek di github secara online"
 5. Maintainer mengarahkan semua kontributor (devops junior/beginer)
 6. Sudah harus kumpul di : 
-    - https://pbo.tifor.info/absenandlink.php
+    - [https://pbo.tifor.info/absenandlink.php](https://pbo.tifor.info/absenandlink.php){:target="_blank"}
     - waktu : MAINTAINER Projek sudah HARUS Mengumpulkan LINK Projek pada Hari Sabtu Malam 
 7. DiPresentasikan Offline/Online 
 
