@@ -10,7 +10,7 @@ Mahasiswa Semester 3 yang mengambil MK PBO diminta membuat sebuah Final Projek (
 1. Buat Tugas Projek Akhir Kalaborasi dengan teman2 di Github
 2. Tugas Projek Kelompok, maksimal 5 orang dan minimal 3, (segera langsung buat kelompoknya)
 3. Bagi Tugas dalam kelompok agar Terdiri dari:
-    - 1 orang MAINTAINER (ketua Kelompok), 
+    - 1 orang MAINTAINER Projek (ketua Kelompok), 
     - 1 atau 2 orang Bertanggung Jawab membuat Dokumentasi (di file README.md)
     - Dokumentasi/Panduan/HowTo terdiri dari:
         - Nama Projek
